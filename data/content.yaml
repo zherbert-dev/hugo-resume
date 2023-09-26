@@ -1,0 +1,184 @@
+BasicInfo:
+  FirstName: Scott
+  LastName: Davis
+  Photo: img/avatar.jpeg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: (410) 530 8043
+    - Icon: fas fa-envelope
+      Info: me@sdavis.info
+    - Icon: fas fa-globe
+      Info: sdavis.info
+    - Icon: fas fa-map-marker-alt
+      Info: USA
+
+Profile: "Experienced technology professional that helped scale two startups into acquisitions by public companies in the past ten years.
+<br /><br />Scott leads engineering teams. He has a wide breadth of growth experience, from building interactive website properties for the Hubble Space Telescope to tenures at high-growth private equity-backed technology companies.
+<br /><br />I'm a remote work advocate with over 17 years of experience working remotely. I've built teams of engineers from 2 to 40 in under 18 months by leveraging the latest tools and techniques for remote collaboration.
+<br /><br />I’m a software engineer at heart with a passion for developing and growing engineering teams and companies.
+<br /><br />I am a huge advocate of Effective vs. Efficient when it comes to building teams. Engineering teams perform when they are given not work just to be busy but work that allows them to add the most VALUE. An effective team can accomplish its goals and objectives, while an efficient team may deliver faster, but it may not be the correct thing.
+<br /><br />I am also a huge advocate and supporter of opensource software i was a core team member of Sass and Compass style sheet framework from 2008 - 2013
+"
+
+Experience:
+  - Employer: Vangst
+    Place: Remote
+    Positions:
+      - Title: Principal Product Engineer
+        Date: Nov 2022 - Present
+        Details:
+          - Lead the effort to build out a new educational product helping people find jobs in a new emerging industry.
+          - Helped define business analytics and re-align tech goals to drive acquisition.
+          - Built an automated job scraper using Open graph data and golang/ruby to boost our SEO footprint.
+          - Implemented metabase to tracking business analytics allowing the team to make data driven decisions.
+          - Audited and performance tuned infrastructure. Including testing tools.
+        Badges: ['Leadership', 'Product Delivery', 'Product leadership', 'Agile', 'Team Growth', 'Enterprise SEO', 'Go', 'Elasticsearch', 'Ruby on Rails', 'Heroku', 'AWS']
+  - Employer: EXP World Holdings Inc. (EXPI) / Showcase IDX
+    Place: Remote
+    Positions:
+      - Title: Vice President of Engineering
+        Date: Oct 2021 - Nov 2022
+        Details:
+          - Executed a true hyper-growth opportunity scaling the Organization from 4 - 40 people in 18 months
+          - Led the software development of real estate search technologies across mobile and web platforms, designing and building the infrastructure to grow our traffic by 30x in just four years.
+          - Led development and implementation of Enterprise SEO tools to acquire new organic traffic based on our repository of MLS data.
+          - Led teams to scale MLS data processing infrastructure from 37 MLSs to over 300.
+          - Collaborated closely with PMs and EMs to manage execution on product-facing engineering work.
+          - Invested in coaching and mentorship for each team meber including skip level,
+          - 
+        Badges: ['Leadership', 'Product Delivery', 'Agile', 'Team Growth', 'Enterprise SEO', 'Big Data', 'GCP', 'Go', 'Hyper Growth', 'Elasticsearch', 'Ruby on Rails']
+      - Title: Director of Engineering
+        Date: Oct 2018 - Oct 2021
+        Details:
+          - After joining in 2018, led the engineering efforts to complete the product to being acquired in 2020 by EXP World Holdings Inc. Started growing the engineering team post-acquisition from 2 to 20
+          - Started growing the engineering team post acquisition from 2 to 20
+          - Implemented Agile workflow processes for the growing team.
+        Badges: ['Agile', 'Team Growth', 'Ruby', 'Ruby on Rails', 'ReactJs', 'NextJs', 'Turbo Streams', 'Elasticsearch', 'RethinkDB', 'PostgreSQL', 'GCP', 'Go', 'Elixir']
+  - Employer: Tourbuzz LLC
+    Place: Remote
+    Positions:
+      - Title: Lead Software Architect
+        Date: Sep 2014 - Sep 2018
+        Details:
+          - Created a framework for rapid design creation that allowed us to grow the core of your display technology 5x in 6 months. Empowering millions of real estate virtual tours.
+          - Managed a high output team tasked with reinventing the proprietary display technology that managed 2+ million virtual tours
+          - Shored up the Architecture in order to scale our application horizontally in a cloud environment.
+          - Created a real-time theme processing engine using elixir and C to serve custom styled content for customers.
+        Badges: ['Ruby', 'PHP', 'AngularJS', 'Team Growth', 'Agile', 'Leadership', 'DevOps', 'AWS', 'Elixir']
+      - Title: Lead Software Engineer
+        Date: Oct 2013 - Sep 2014
+        Details: 
+          - Took an established MVP and grew it to support multiple developer teams.
+          - Migrated hosting from single VM to horizontally scalable cloud architecture.
+        Badges: ['Ruby', 'PHP', 'AngularJS', 'Team Growth', 'Agile', 'Leadership', 'DevOps', 'AWS']
+  - Employer: Space Telescope Science Institute (CSC)
+    Place: Remote
+    Positions:
+      - Title: Lead User Experience Engineer
+        Date: Mar 2010 - Oct 2013
+        Details:
+          - Developed Hubbitsite iPhone application which was featured on the AppStore and regional news outlets.
+          - Built and maintained a new version of Hubblesite's press release system using Ruby on Rails.
+          - Worked with designers and content creators to build interactive web properties about the Hubble Space Telescope, astronomy, and astrophysics.
+          - Managed External contracts building IPhone and Ruby on Rails applications.
+          - Designed infrastructure to keep the site up during a 48 hour Google Doodle event, which brought us a month's worth of normal traffic in three days. (2.4 million unique visitors per day)
+        Badges: ['Objective-C', 'Ruby on Rails', 'PHP', 'Agile', 'Leadership', 'DevOps', 'Linode', 'Adobe Air']
+      - Title: Software Analyst I
+        Date: Jan 2008 - Mar 2010
+        Details:
+          - Support for MAST project image archives for the Hubble Space Telescope.
+          - Support for legacy image processing applications.
+          - Supported upgrades of Legacy PERL application.
+        Badges: ['Perl', 'PHP', 'Lisp', 'C', 'C++']
+  - Employer: SmartLogic Solutions
+    Place: Baltimore, MD
+    Positions:
+      - Title: Software Engineer
+        Date: Jan 2005 - Jan 2008
+        Details:
+          - Dynamic database-driven application developer. I developed in Adobe Flex and Ruby on Rails, with advanced use of javascript and other web technologies.
+        Badges: ['Ruby on Rails', 'PHP', 'Linode', 'Adobe Air']
+
+
+Education:
+  - Course: Associate of Arts, General Education (2007)
+    Place: Carroll Community College
+    Date: 2004 - 2007
+    Details: Specialised in Design and Mathmatics
+  - Course: High School Diaploma
+    Place: Westminster High School
+    Date: 2000 - 2003
+    Details: President of Electronics Club, Computer Club, and Chess Club
+
+#References:
+  #- Name: Person One
+    #Relation: Co-worker at Super Cool Company
+    #Contacts:
+    #- Icon: fas fa-phone
+      #Info: +44 123 456 790
+    #- Icon: fas fa-envelope
+      #Info: contact@person-one.com
+    #- Icon: fas fa-map-marker-alt
+      #Info: Melbourne, Australia
+  #- Name: Person Two
+    #Relation: Boss at Super Cool Company
+    #Contacts:
+    #- Icon: fas fa-phone
+      #Info: +44 123 456 791
+    #- Icon: fas fa-envelope
+      #Info: contact@person-two.com
+    #- Icon: fas fa-map-marker-alt
+      #Info: Sydney, Australia
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Go
+      - Ruby
+      - Elixir
+      - Javascript
+      - SASS
+      - SQL
+      - C
+      - C++
+      - PHP
+      - Elasticsearch
+  - Family: Frameworks
+    Items:
+      - Ruby on Rails
+      - Sidekiq
+      - React
+      - NextJs
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Kubernetes
+      - Github Actions
+      - GCP
+      - AWS
+  - Family: Misc
+    Items:
+      - Adobe Tools
+      - Wordpress
+      - Entrepreneur
+  - Family: OpenSource
+    Items:
+      - Compass (Sass)
+      - Sass
+
+Languages:
+  - Name: English
+    Level: Native
+
+Diplomas:
+  - Associate of Arts, General Education (2007)
+
+Interests:
+  - Farming
+  - Cooking
+  - Music (Guitar)
+  - Woodworking
+  - 3D Printing
+  - Fabrication
