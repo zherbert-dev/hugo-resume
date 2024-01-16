@@ -1,0 +1,134 @@
+BasicInfo:
+  FirstName: Zack
+  LastName: Herbert
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +1 540 271 1866
+    - Icon: fas fa-envelope
+      Info: zackherbert@gmail.com
+    # - Icon: fas fa-globe
+    #   Info: <a class="contact__link" href="https://ines-almeida.com" target="_blank">ines-almeida.com</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Columbus, OH
+    - Icon: fas fa-user
+      Info: He/They
+
+Profile: Innovative and highly qualified Senior Software Engineer with 8+-years’ experience in software engineering and project/program management within the B2B and B2C medical, auctions, academic, and real estate content hosting and publishing industries. In-depth knowledge of Agile methodologies and project management technologies. Subject Matter Expert (SME) in all phases of the Software Development Lifecycle (SDLC). Proven history of enhancing and building new systems by balancing both business and client needs from an engineering perspective. Dedicated to a career based on service, quality, and uncompromising ethics.
+
+Experience:
+  - Employer: Showcase IDX (Acquired by eXp World Holdings)
+    Place: Remote
+    Positions:
+      - Title: Senior Software Engineer
+        Date: Oct 2022 - Sept 2023
+        Details:
+          - Promoted to the role to serve as the SME for the company’s MLS data pipeline and standardization framework. Primary responsibilities included, enhancing and modernizing the UI/UX of internal agent tooling; and API behind agent search tooling.
+          - Played a key role in the implementation of an agent-to-agent referral system that integrated with Dropbox Sign and had an annual run rate of 30k+ referrals.
+          - Collaborated with other Software Engineers to implement the new agent-to-agent search tooling via ElasticSearch, resulting in the ability to search through 60K+ agents in order to generate referrals.
+        Badges: ['Ruby', 'Rails', 'Postgres', 'RethinkDB', 'Sidekiq', 'Redis', 'Tailwind', 'Stimulus', 'HTML', 'Elasticsearch', 'GCP']
+      - Title: Data Engineer
+        Date: April 2021 - Oct 2020
+        Details:
+          - Elevated to the position to implement self-service tooling; to build out an AI powered property search tool which utilized listing images metadata; and to add integrations to third party data providers. Likewise, to ensure real estate listings were updated in an accurate and timely manner through the implementation of advanced mechanisms.
+          - Implemented self-service tooling, resulting in the expansion of data feeds from 50+ to 400+.
+          - Ensured the ability of the data pipeline being able to support increasing real estate listing volume, peaking at 2M+ unique records
+        Badges: ['Ruby', 'Rails', 'RethinkDB', 'DMQL', 'Sidekiq', 'Redis', 'Elasticsearch', 'API Integrations', 'GCP']
+      - Title: Fullstack Software Engineer
+        Date: Oct 2020 - April 2021
+        Details:
+          - Hired to partner with the Customer Success Team to promptly address and resolve data mapping needs and SLAs within 24-hours.
+          - Spearheaded the success effort of resolving a 2-year-old backlog of bug tickets.
+          - Increased testing suite code coverage from ~35% to 90% in less than a year.
+          - Implemented a standardized data schema that transformed unstandardized MLS data which powered Showcase’s property search platform. 
+        Badges: ['Ruby', 'Rails', 'RethinkDB', 'DMQL', 'Sidekiq', 'Redis', 'Elasticsearch', 'GCP']
+  - Employer: Silverchair Information Systems
+    Place: Charlottesville, VA
+    Positions:
+      - Title: Software Engineer
+        Date: June 2019 - June 2020
+        Details:
+          - Collaborated with business analysts and project managers to discern client requirements in order to improve UI/UX specific apps, tools, and content expansion. Additionally, maintained client web applications for hosting and distribution of academic and medical content. 
+          - Efficiently integrated Adobe Analytics, Image Gallery, and content bookmarking, loading and distribution to multiple sites.
+          - Productively updated UI/UX which encompassed filters, and bulk/batch actions for publishing, deleting and expiring content.
+          - Created an image gallery with content tagging and favoriting for a client.
+        Badges: ['C#', '.NET', 'AngularJS', 'XML', 'SQL', 'Azure']
+  - Employer: BidWrangler, LLC
+    Place: Harrisonburg, VA
+    Positions:
+      - Title: Software Engineer
+        Date: Oct 2015 - April 2019
+        Details:
+          - Joined the Start Up to innovate a real-time bidding platform for web and mobile. Primary responsibilities included; monitoring live auctions to remediate and resolve technical issues; providing support for clients’ technical needs such as implementation of new features. 
+          - Successfully redesigned and added features to the clerking experience, auction analytics reporting process, and bidding algorithm.
+          - Single-handedly built, deployed, integrated, and maintained mobile apps for iOS, Android, and third-party APIs.
+          - Extensive experience with payment processing integration; auction inventory importer via CSV files; and SMS Notification Integration (Twilio).
+          - Generated web scrapers to import client's old auction data from their previous provider.
+        Badges: ['Ruby', 'Rails', 'MySQL', 'AngularJS', 'Firebase', 'Phonegap', 'Bootstrap', 'AWS', 'Papertrail']
+
+Education:
+  - Course: Computer Science, BS
+    Place: James Madison University
+    Date: August 2013 - May 2016
+
+# References:
+#   - Name: Person One
+#     Relation: Co-worker at Super Cool Company
+#     Contacts:
+#     - Icon: fas fa-phone
+#       Info: +44 123 456 790
+#     - Icon: fas fa-envelope
+#       Info: contact@person-one.com
+#     - Icon: fas fa-map-marker-alt
+#       Info: Melbourne, Australia
+#   - Name: Person Two
+#     Relation: Boss at Super Cool Company
+#     Contacts:
+#     - Icon: fas fa-phone
+#       Info: +44 123 456 791
+#     - Icon: fas fa-envelope
+#       Info: contact@person-two.com
+#     - Icon: fas fa-map-marker-alt
+#       Info: Sydney, Australia
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Ruby
+      - Go (Actively Learning)
+      - HTML
+      - Javascript
+      - CSS
+      - SASS
+      - SQL (MySQL, Postgres)
+      - RethinkDB
+      - Bash
+  - Family: Frameworks
+    Items:
+      - Rails
+      - AngularJS
+      - Tailwind
+      - Stimulus
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - GCP
+      - AWS
+      - Postman
+      - Papertrail
+      - Datadog
+      - Prometheus.io
+
+Languages:
+  - Name: English
+    Level: Native
+
+Interests:
+  - Cooking
+  - Gaming
+  - Fishing
+  - Kayaking
+  - Hiking
+  - Music
