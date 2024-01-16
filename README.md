@@ -1,7 +1,9 @@
 # Preview
 
-<img width="838" alt="image" src="https://github.com/zherbert-dev/hugo-resume/assets/58636593/acb9c294-5d5a-41e3-889b-a264009b0a30">
+<img width="813" alt="image" src="https://github.com/zherbert-dev/hugo-resume/assets/58636593/9ef5ade6-e174-456f-b104-0455fdba4951">
 
+## Live Site:
+https://zherbert-dev.github.io/hugo-resume/
 
-Credit to the following repo for the template:
+### Credit to the following repo for the template:
 https://github.com/ineesalmeida/almeida-cv
