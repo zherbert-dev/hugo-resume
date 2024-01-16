@@ -3,8 +3,6 @@ BasicInfo:
   LastName: Herbert
   Photo: img/avatar.jpg
   Contacts:
-    - Icon: fas fa-phone
-      Info: +1 540 271 1866
     - Icon: fas fa-envelope
       Info: zackherbert@gmail.com
     - Icon: fas fa-globe
